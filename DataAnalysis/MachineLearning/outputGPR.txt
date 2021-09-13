@@ -1,0 +1,465 @@
+Database_Performance_100pnt.csv
+ER
+4.23**2 * RBF(length_scale=[2.91, 2.72, 3.53, 4.64, 30]) + WhiteKernel(noise_level=0.0634)
+0.0970114655980595
+2.83**2 * RBF(length_scale=[3.03, 1.63, 1.94, 2.23, 15.2]) + WhiteKernel(noise_level=0.0175)
+0.09486852249924223
+3.34**2 * RBF(length_scale=[2.87, 2.17, 2.97, 3.9, 30]) + WhiteKernel(noise_level=0.0424)
+0.22225245568904575
+3.42**2 * RBF(length_scale=[3.48, 1.69, 2.59, 3.28, 30]) + WhiteKernel(noise_level=0.0343)
+0.19885349552435239
+2.72**2 * RBF(length_scale=[2.35, 1.63, 2.62, 2, 30]) + WhiteKernel(noise_level=0.0119)
+0.15782196266794088
+3.3**2 * RBF(length_scale=[3.32, 1.77, 2.56, 2.06, 14.3]) + WhiteKernel(noise_level=0.0098)
+0.18948850102221704
+3.57**2 * RBF(length_scale=[3.23, 2.02, 2.49, 2.36, 30]) + WhiteKernel(noise_level=0.0164)
+0.10990906005759188
+2.61**2 * RBF(length_scale=[2.67, 1.28, 1.4, 2.22, 30]) + WhiteKernel(noise_level=1e-05)
+0.21943933525993667
+2.87**2 * RBF(length_scale=[3.25, 1.33, 1.64, 2.13, 11.7]) + WhiteKernel(noise_level=1e-05)
+0.12254556871802573
+3.49**2 * RBF(length_scale=[3.05, 1.91, 3.15, 2.36, 30]) + WhiteKernel(noise_level=0.0274)
+0.24048610695247832
+0.16526764739888905
+eff
+0.189**2 * RBF(length_scale=[0.887, 0.419, 0.595, 2.29, 30]) + WhiteKernel(noise_level=1e-05)
+0.011039080477951359
+0.184**2 * RBF(length_scale=[1.07, 0.502, 0.572, 2.35, 30]) + WhiteKernel(noise_level=0.00138)
+0.009755071600629035
+0.202**2 * RBF(length_scale=[1.13, 0.453, 0.517, 3.3, 11.8]) + WhiteKernel(noise_level=1e-05)
+0.016987486461938903
+0.197**2 * RBF(length_scale=[1.43, 0.483, 0.517, 2.07, 3.97]) + WhiteKernel(noise_level=1e-05)
+0.0068536680663477964
+0.187**2 * RBF(length_scale=[0.774, 0.613, 1.04, 2.17, 30]) + WhiteKernel(noise_level=0.00241)
+0.02422145579214503
+0.188**2 * RBF(length_scale=[1.25, 0.429, 0.542, 1.96, 9.01]) + WhiteKernel(noise_level=1e-05)
+0.017129831244116416
+0.172**2 * RBF(length_scale=[0.967, 0.539, 0.664, 2.82, 30]) + WhiteKernel(noise_level=0.00251)
+0.019768848062521136
+0.2**2 * RBF(length_scale=[1.05, 0.432, 0.512, 2.6, 30]) + WhiteKernel(noise_level=1e-05)
+0.006797998490252573
+0.182**2 * RBF(length_scale=[1.02, 0.432, 0.619, 2.5, 13]) + WhiteKernel(noise_level=0.000822)
+0.024345073571765154
+0.191**2 * RBF(length_scale=[1.09, 0.397, 0.502, 2.01, 30]) + WhiteKernel(noise_level=1e-05)
+0.005982927602942296
+0.014288144137060971
+mfr_m
+0.0689**2 * RBF(length_scale=[5.23, 30, 30, 4.65, 30]) + WhiteKernel(noise_level=1e-05)
+4.2715217347792077e-07
+0.0695**2 * RBF(length_scale=[5.35, 30, 30, 4.63, 30]) + WhiteKernel(noise_level=1e-05)
+4.6834727789201617e-07
+0.0688**2 * RBF(length_scale=[5.36, 30, 30, 4.66, 30]) + WhiteKernel(noise_level=1e-05)
+3.510329150355817e-07
+0.0725**2 * RBF(length_scale=[5.84, 30, 30, 5.06, 30]) + WhiteKernel(noise_level=1e-05)
+1.8751294058866026e-06
+0.0706**2 * RBF(length_scale=[5.49, 30, 30, 4.84, 30]) + WhiteKernel(noise_level=1e-05)
+1.0641362583129358e-06
+0.0692**2 * RBF(length_scale=[5.55, 30, 30, 4.87, 30]) + WhiteKernel(noise_level=1e-05)
+8.42139692748868e-07
+0.069**2 * RBF(length_scale=[5.41, 30, 30, 4.7, 30]) + WhiteKernel(noise_level=1e-05)
+2.4651410452458557e-07
+0.07**2 * RBF(length_scale=[5.37, 30, 30, 4.74, 30]) + WhiteKernel(noise_level=1e-05)
+5.593123132939269e-07
+0.0691**2 * RBF(length_scale=[5.34, 30, 30, 4.59, 30]) + WhiteKernel(noise_level=1e-05)
+4.888519758855404e-07
+0.0731**2 * RBF(length_scale=[5.87, 30, 30, 5.4, 30]) + WhiteKernel(noise_level=1e-05)
+3.0142242958353177e-06
+9.336840412893296e-07
+mfr_s
+0.171**2 * RBF(length_scale=[2.85, 1.25, 1.82, 1.82, 7.26]) + WhiteKernel(noise_level=0.000147)
+0.0009042209860353885
+0.151**2 * RBF(length_scale=[2.84, 0.72, 1.62, 1.45, 30]) + WhiteKernel(noise_level=1e-05)
+0.001026488439050623
+0.185**2 * RBF(length_scale=[3.22, 1.39, 2.24, 1.97, 30]) + WhiteKernel(noise_level=0.000157)
+0.0027503230736764857
+0.227**2 * RBF(length_scale=[3.86, 1.28, 2.62, 2.02, 30]) + WhiteKernel(noise_level=0.000299)
+0.0011087463892135298
+0.166**2 * RBF(length_scale=[2.1, 1.11, 1.93, 1.47, 30]) + WhiteKernel(noise_level=4.23e-05)
+0.0017716844499804669
+0.239**2 * RBF(length_scale=[3.24, 1.5, 2.93, 1.8, 11.3]) + WhiteKernel(noise_level=0.00012)
+0.003000596374253343
+0.24**2 * RBF(length_scale=[3.39, 1.54, 2.83, 2.03, 30]) + WhiteKernel(noise_level=0.000312)
+0.000670573743176983
+0.199**2 * RBF(length_scale=[3.56, 1.17, 1.75, 1.86, 30]) + WhiteKernel(noise_level=0.000193)
+0.0012271131048021435
+0.224**2 * RBF(length_scale=[3.19, 1.31, 2.5, 1.88, 30]) + WhiteKernel(noise_level=0.000263)
+0.0006914705059033332
+0.243**2 * RBF(length_scale=[3.64, 1.46, 2.96, 2, 30]) + WhiteKernel(noise_level=0.000352)
+0.0012811650598683754
+0.001443238212596067
+ uni_alpha
+0.344**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+4.6702364200562195e-07
+0.345**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+5.72783839291063e-07
+0.349**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+1.939069153834814e-06
+0.342**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+9.413749392071756e-07
+0.346**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+4.6268794608704273e-07
+0.346**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+4.500421859999535e-07
+0.348**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+7.36656582206379e-07
+0.348**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+4.592497760946345e-07
+0.344**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+4.7550638316668333e-07
+0.341**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+1.0584173615710585e-06
+7.562811809464426e-07
+ uni_vel
+0.442**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=0.000567)
+0.0005584838908737838
+0.638**2 * RBF(length_scale=[3.76, 10.9, 10.7, 30, 30]) + WhiteKernel(noise_level=0.000335)
+0.00036878285363210425
+0.443**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=0.000494)
+0.0009913543206270076
+0.423**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=0.000582)
+0.000538076612979317
+0.66**2 * RBF(length_scale=[4.32, 8.5, 9.63, 30, 30]) + WhiteKernel(noise_level=0.000323)
+0.0004796240022462686
+0.427**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=0.000584)
+0.0005123202700866358
+0.453**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=0.000589)
+0.00040806827651056914
+0.452**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=0.000556)
+0.0006106190163256305
+0.439**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=0.000583)
+0.0004719616354887907
+0.424**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=0.000532)
+0.000826485987424784
+0.0005765776866194893
+ ds1
+0.105**2 * RBF(length_scale=[1.01, 0.654, 0.752, 3.46, 30]) + WhiteKernel(noise_level=0.000488)
+0.003800858964783554
+0.103**2 * RBF(length_scale=[1.03, 0.835, 0.871, 6.32, 30]) + WhiteKernel(noise_level=0.00145)
+0.002475601336430355
+0.102**2 * RBF(length_scale=[0.872, 0.679, 0.715, 4.4, 30]) + WhiteKernel(noise_level=0.00092)
+0.0015456648771493041
+0.103**2 * RBF(length_scale=[1.01, 0.601, 0.933, 5.02, 30]) + WhiteKernel(noise_level=0.000806)
+0.005247931369297098
+0.0983**2 * RBF(length_scale=[0.833, 0.69, 0.775, 5.55, 30]) + WhiteKernel(noise_level=0.00128)
+0.0012598337692045476
+0.0998**2 * RBF(length_scale=[0.95, 0.556, 0.825, 5.9, 30]) + WhiteKernel(noise_level=0.000994)
+0.003316757793170109
+0.102**2 * RBF(length_scale=[0.864, 0.781, 0.749, 30, 30]) + WhiteKernel(noise_level=0.000949)
+0.005487523439334841
+0.099**2 * RBF(length_scale=[0.875, 0.683, 0.744, 5.07, 30]) + WhiteKernel(noise_level=0.00112)
+0.0015859650438942352
+0.1**2 * RBF(length_scale=[0.837, 0.579, 0.903, 5.49, 30]) + WhiteKernel(noise_level=0.000966)
+0.002541361408605595
+0.0895**2 * RBF(length_scale=[0.775, 0.729, 0.721, 4.59, 30]) + WhiteKernel(noise_level=0.00148)
+0.0018783998139833063
+0.0029139897815852944
+Database_Performance_300pnt.csv
+ER
+3.21**2 * RBF(length_scale=[2.69, 1.85, 1.89, 5.17, 30]) + WhiteKernel(noise_level=0.0881)
+0.03803169162785832
+2.37**2 * RBF(length_scale=[2.33, 1.28, 1.36, 2.08, 29]) + WhiteKernel(noise_level=0.0252)
+0.29524844930832944
+3.27**2 * RBF(length_scale=[2.46, 1.9, 2.09, 5.63, 30]) + WhiteKernel(noise_level=0.0875)
+0.049364830489355596
+5.27**2 * RBF(length_scale=[2.65, 3.02, 4.53, 4.7, 30]) + WhiteKernel(noise_level=0.092)
+0.06711043219568877
+5.56**2 * RBF(length_scale=[3.08, 2.99, 4.77, 4.73, 30]) + WhiteKernel(noise_level=0.0899)
+0.07697943851000018
+3.58**2 * RBF(length_scale=[2.77, 1.87, 2.44, 7.54, 30]) + WhiteKernel(noise_level=0.08)
+0.15014242157892768
+4.44**2 * RBF(length_scale=[2.72, 2.66, 3.99, 6.45, 30]) + WhiteKernel(noise_level=0.0921)
+0.10437884131834946
+2.6**2 * RBF(length_scale=[2.23, 1.5, 1.51, 2.58, 24.5]) + WhiteKernel(noise_level=0.0424)
+0.2319819069472779
+1.57**2 * RBF(length_scale=[1.42, 1.03, 1.04, 2.46, 6.66]) + WhiteKernel(noise_level=0.0243)
+0.28537211513444805
+3.18**2 * RBF(length_scale=[2.42, 1.81, 1.84, 5.57, 30]) + WhiteKernel(noise_level=0.0816)
+0.07211714205149578
+0.13707272691617312
+eff
+0.196**2 * RBF(length_scale=[1.93, 0.396, 0.599, 5.56, 22.9]) + WhiteKernel(noise_level=0.012)
+0.007061619167906237
+0.196**2 * RBF(length_scale=[1.3, 0.338, 0.425, 2.44, 12.5]) + WhiteKernel(noise_level=0.00364)
+0.032335297032733544
+0.188**2 * RBF(length_scale=[1.83, 0.384, 0.592, 6.42, 22.3]) + WhiteKernel(noise_level=0.0115)
+0.012877328710392766
+0.195**2 * RBF(length_scale=[1.78, 0.355, 0.51, 3.97, 9.11]) + WhiteKernel(noise_level=0.00962)
+0.012650432065414993
+0.192**2 * RBF(length_scale=[1.93, 0.355, 0.501, 8.86, 7]) + WhiteKernel(noise_level=0.0107)
+0.009430628330680363
+0.186**2 * RBF(length_scale=[1.51, 0.33, 0.47, 8.03, 30]) + WhiteKernel(noise_level=0.00933)
+0.018012609071429292
+0.195**2 * RBF(length_scale=[1.76, 0.405, 0.548, 7.75, 30]) + WhiteKernel(noise_level=0.0109)
+0.014250484086140967
+0.193**2 * RBF(length_scale=[1.48, 0.305, 0.419, 6.17, 6.23]) + WhiteKernel(noise_level=0.0049)
+0.02681840464996152
+0.209**2 * RBF(length_scale=[1.21, 0.266, 0.313, 3.58, 3.64]) + WhiteKernel(noise_level=0.00208)
+0.022903548828651088
+0.19**2 * RBF(length_scale=[2.01, 0.419, 0.58, 30, 30]) + WhiteKernel(noise_level=0.0124)
+0.013483506422096786
+0.016982385836540752
+mfr_m
+0.0615**2 * RBF(length_scale=[5.42, 30, 30, 4.44, 30]) + WhiteKernel(noise_level=1e-05)
+5.997991760656918e-07
+0.0615**2 * RBF(length_scale=[5.37, 30, 30, 4.44, 30]) + WhiteKernel(noise_level=1e-05)
+4.4842763222648834e-07
+0.0608**2 * RBF(length_scale=[5.22, 30, 30, 4.37, 30]) + WhiteKernel(noise_level=1e-05)
+2.4913020660853945e-07
+0.0611**2 * RBF(length_scale=[5.24, 30, 30, 4.29, 30]) + WhiteKernel(noise_level=1e-05)
+3.1481272273814053e-07
+0.061**2 * RBF(length_scale=[5.53, 30, 30, 4.45, 30]) + WhiteKernel(noise_level=1e-05)
+5.92915388844e-07
+0.0612**2 * RBF(length_scale=[5.33, 30, 30, 4.35, 30]) + WhiteKernel(noise_level=1e-05)
+5.372888960204133e-07
+0.0611**2 * RBF(length_scale=[5.42, 30, 30, 4.47, 30]) + WhiteKernel(noise_level=1e-05)
+7.06379562424318e-07
+0.0609**2 * RBF(length_scale=[5.19, 30, 30, 4.39, 30]) + WhiteKernel(noise_level=1e-05)
+3.9099716989754586e-07
+0.0611**2 * RBF(length_scale=[5.4, 30, 30, 4.33, 30]) + WhiteKernel(noise_level=1e-05)
+7.128996297311728e-07
+0.0608**2 * RBF(length_scale=[5.28, 30, 30, 4.28, 30]) + WhiteKernel(noise_level=1e-05)
+5.062734279358927e-07
+5.058923812492203e-07
+mfr_s
+0.375**2 * RBF(length_scale=[3.72, 3.42, 5.23, 5.06, 29.1]) + WhiteKernel(noise_level=0.00142)
+0.0004025479095093091
+0.146**2 * RBF(length_scale=[2.68, 1.16, 1.01, 1.21, 13.7]) + WhiteKernel(noise_level=0.000235)
+0.004383314198828538
+0.356**2 * RBF(length_scale=[3.45, 3.23, 5.22, 5.26, 26.3]) + WhiteKernel(noise_level=0.00135)
+0.0007884075849347855
+0.378**2 * RBF(length_scale=[3.64, 3.33, 5.33, 3.53, 18.5]) + WhiteKernel(noise_level=0.00125)
+0.0009684483756699071
+0.363**2 * RBF(length_scale=[3.92, 3.01, 5.36, 4.03, 18.2]) + WhiteKernel(noise_level=0.00124)
+0.001076626718013522
+0.279**2 * RBF(length_scale=[3.44, 2.15, 3.96, 18.6, 30]) + WhiteKernel(noise_level=0.00115)
+0.002808242298802105
+0.327**2 * RBF(length_scale=[3.55, 2.87, 4.82, 6.13, 30]) + WhiteKernel(noise_level=0.0013)
+0.0012844875809379663
+0.152**2 * RBF(length_scale=[2.58, 1.22, 1.17, 1.11, 9.69]) + WhiteKernel(noise_level=0.000309)
+0.005161029213667186
+0.116**2 * RBF(length_scale=[0.989, 0.917, 0.949, 1.68, 4.08]) + WhiteKernel(noise_level=0.00016)
+0.0048117836714350794
+0.165**2 * RBF(length_scale=[3.5, 1.27, 1.24, 4.42, 30]) + WhiteKernel(noise_level=0.00123)
+0.0008969434343277958
+0.0022581830986126194
+ uni_alpha
+0.756**2 * RBF(length_scale=[0.541, 30, 30, 0.642, 30]) + WhiteKernel(noise_level=1e-05)
+0.00012081408882682727
+0.353**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+0.02376361371001536
+0.912**2 * RBF(length_scale=[12.1, 30, 30, 0.459, 1.13]) + WhiteKernel(noise_level=1e-05)
+0.009058094867437944
+0.462**2 * RBF(length_scale=[9.6, 30, 30, 8.62, 10.5]) + WhiteKernel(noise_level=0.00386)
+0.0004307456716681272
+0.594**2 * RBF(length_scale=[0.589, 30, 30, 0.551, 30]) + WhiteKernel(noise_level=1e-05)
+0.0006175157477330283
+0.353**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+0.02376593832189106
+0.574**2 * RBF(length_scale=[0.641, 30, 30, 0.471, 30]) + WhiteKernel(noise_level=1e-05)
+0.0010491502872001569
+0.356**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+0.02376616081762389
+0.467**2 * RBF(length_scale=[9.96, 30, 30, 8.86, 12.9]) + WhiteKernel(noise_level=0.00391)
+0.00025259353897805285
+0.997**2 * RBF(length_scale=[4.03, 13.4, 30, 0.253, 30]) + WhiteKernel(noise_level=1e-05)
+0.01873253543495225
+0.010155716248632669
+ uni_vel
+0.647**2 * RBF(length_scale=[4.9, 12.7, 16.6, 30, 30]) + WhiteKernel(noise_level=0.000321)
+0.0004299447990485938
+0.788**2 * RBF(length_scale=[9.69, 4.55, 5.14, 30, 30]) + WhiteKernel(noise_level=0.000272)
+0.0004035058134205311
+0.64**2 * RBF(length_scale=[5.48, 12.5, 18.1, 30, 30]) + WhiteKernel(noise_level=0.000345)
+0.00030742204817020406
+0.626**2 * RBF(length_scale=[5.23, 11.6, 16.6, 30, 30]) + WhiteKernel(noise_level=0.000345)
+0.0003032163786094267
+0.657**2 * RBF(length_scale=[5.39, 11.7, 17.6, 30, 30]) + WhiteKernel(noise_level=0.000323)
+0.00041256937617355227
+0.634**2 * RBF(length_scale=[5.5, 10.7, 17.6, 30, 30]) + WhiteKernel(noise_level=0.000343)
+0.0002991068338452845
+0.747**2 * RBF(length_scale=[9.53, 4.46, 5.56, 30, 30]) + WhiteKernel(noise_level=0.000291)
+0.00033172176623867976
+0.754**2 * RBF(length_scale=[8.94, 4.14, 4.75, 30, 30]) + WhiteKernel(noise_level=0.000267)
+0.0003975514864405202
+0.722**2 * RBF(length_scale=[8.94, 3.71, 4.86, 30, 30]) + WhiteKernel(noise_level=0.000277)
+0.0003454355771585316
+0.702**2 * RBF(length_scale=[8.54, 4.4, 4.54, 30, 30]) + WhiteKernel(noise_level=0.00028)
+0.0003600912667229508
+0.0003590565345828275
+ ds1
+0.18**2 * RBF(length_scale=[1.84, 1.79, 2.76, 24.8, 6.55]) + WhiteKernel(noise_level=0.0073)
+0.0015037884154301565
+0.105**2 * RBF(length_scale=[1.31, 0.664, 1.34, 6.41, 5.63]) + WhiteKernel(noise_level=0.0057)
+0.00765596519185585
+0.169**2 * RBF(length_scale=[1.68, 1.82, 2.85, 30, 7.38]) + WhiteKernel(noise_level=0.00675)
+0.004999319182575372
+0.166**2 * RBF(length_scale=[1.65, 1.68, 2.55, 23, 10.6]) + WhiteKernel(noise_level=0.00415)
+0.01880285578188114
+0.186**2 * RBF(length_scale=[1.92, 1.85, 2.84, 25, 6]) + WhiteKernel(noise_level=0.00672)
+0.004466318088933975
+0.165**2 * RBF(length_scale=[1.79, 1.54, 2.53, 19.4, 6.24]) + WhiteKernel(noise_level=0.0071)
+0.002310726237364515
+0.169**2 * RBF(length_scale=[1.77, 1.67, 2.93, 30, 5.28]) + WhiteKernel(noise_level=0.00642)
+0.006595941295499753
+0.104**2 * RBF(length_scale=[1.37, 0.608, 1.25, 8.07, 5.87]) + WhiteKernel(noise_level=0.00632)
+0.004418230291256765
+0.155**2 * RBF(length_scale=[1.8, 1.35, 2.33, 15.8, 6.76]) + WhiteKernel(noise_level=0.0067)
+0.0047337083115674495
+0.176**2 * RBF(length_scale=[1.87, 1.94, 2.9, 22.8, 18.8]) + WhiteKernel(noise_level=0.00392)
+0.022224049783825597
+0.007771090258019056
+Database_Performance_600pnt.csv
+ER
+1.96**2 * RBF(length_scale=[1.63, 1.19, 1.59, 2.24, 8.59]) + WhiteKernel(noise_level=0.05)
+0.20725155338277423
+2.68**2 * RBF(length_scale=[2.17, 1.65, 2.05, 2.71, 30]) + WhiteKernel(noise_level=0.0905)
+0.030229308792122603
+3.06**2 * RBF(length_scale=[2.27, 1.82, 2.34, 3.12, 30]) + WhiteKernel(noise_level=0.0882)
+0.059648472225087776
+2.63**2 * RBF(length_scale=[2.05, 1.64, 2.01, 2.62, 30]) + WhiteKernel(noise_level=0.0829)
+0.0703511611551004
+2.8**2 * RBF(length_scale=[2.31, 1.66, 2.01, 2.8, 30]) + WhiteKernel(noise_level=0.0819)
+0.07346148998057857
+3.02**2 * RBF(length_scale=[2.24, 1.91, 2.4, 2.82, 30]) + WhiteKernel(noise_level=0.0857)
+0.07282925851327686
+2.76**2 * RBF(length_scale=[2.2, 1.63, 2.16, 3.21, 30]) + WhiteKernel(noise_level=0.0799)
+0.11087585471858785
+2.47**2 * RBF(length_scale=[2, 1.52, 1.97, 2.51, 30]) + WhiteKernel(noise_level=0.0757)
+0.09444179905861388
+3.48**2 * RBF(length_scale=[2.39, 2.06, 2.55, 2.84, 30]) + WhiteKernel(noise_level=0.0862)
+0.07542953511077544
+3.1**2 * RBF(length_scale=[2.27, 1.91, 2.42, 3.02, 30]) + WhiteKernel(noise_level=0.0898)
+0.05932096543619097
+0.08538393983731084
+eff
+0.169**2 * RBF(length_scale=[0.998, 0.326, 0.317, 2.8, 8.01]) + WhiteKernel(noise_level=0.00311)
+0.010620650368814188
+0.168**2 * RBF(length_scale=[1.21, 0.342, 0.316, 3.07, 30]) + WhiteKernel(noise_level=0.00496)
+0.006803111191562711
+0.169**2 * RBF(length_scale=[1.23, 0.358, 0.357, 2.55, 20.3]) + WhiteKernel(noise_level=0.00512)
+0.004941654010122908
+0.168**2 * RBF(length_scale=[1.18, 0.34, 0.36, 3.03, 14.7]) + WhiteKernel(noise_level=0.00522)
+0.005680413374929728
+0.169**2 * RBF(length_scale=[1.18, 0.365, 0.326, 2.41, 9.27]) + WhiteKernel(noise_level=0.00432)
+0.005898007018399515
+0.168**2 * RBF(length_scale=[1.21, 0.356, 0.379, 2.62, 15.7]) + WhiteKernel(noise_level=0.00516)
+0.0058780445041411045
+0.169**2 * RBF(length_scale=[1.15, 0.344, 0.327, 3.66, 10.4]) + WhiteKernel(noise_level=0.00415)
+0.009509333769559385
+0.169**2 * RBF(length_scale=[1.15, 0.361, 0.323, 2.5, 16.8]) + WhiteKernel(noise_level=0.00463)
+0.005403098963605983
+0.166**2 * RBF(length_scale=[1.25, 0.356, 0.371, 3.02, 10.8]) + WhiteKernel(noise_level=0.00542)
+0.006199052514325254
+0.169**2 * RBF(length_scale=[1.14, 0.351, 0.346, 3.06, 22.5]) + WhiteKernel(noise_level=0.00521)
+0.004665778546253328
+0.006559914426171409
+mfr_m
+0.0572**2 * RBF(length_scale=[4.87, 30, 30, 4.4, 30]) + WhiteKernel(noise_level=1e-05)
+4.035771981881795e-07
+0.0578**2 * RBF(length_scale=[5.01, 30, 30, 4.42, 30]) + WhiteKernel(noise_level=1e-05)
+4.693836915377357e-07
+0.0576**2 * RBF(length_scale=[4.95, 30, 30, 4.42, 30]) + WhiteKernel(noise_level=1e-05)
+2.950100046389406e-07
+0.058**2 * RBF(length_scale=[4.99, 30, 30, 4.48, 30]) + WhiteKernel(noise_level=1e-05)
+4.813815252303433e-07
+0.0574**2 * RBF(length_scale=[4.89, 30, 30, 4.43, 30]) + WhiteKernel(noise_level=1e-05)
+3.390648795166415e-07
+0.0577**2 * RBF(length_scale=[5.01, 30, 30, 4.42, 30]) + WhiteKernel(noise_level=1e-05)
+5.709127950029685e-07
+0.0575**2 * RBF(length_scale=[4.98, 30, 30, 4.41, 30]) + WhiteKernel(noise_level=1e-05)
+4.819538848146387e-07
+0.0575**2 * RBF(length_scale=[4.95, 30, 30, 4.49, 30]) + WhiteKernel(noise_level=1e-05)
+5.595361595585367e-07
+0.0576**2 * RBF(length_scale=[4.85, 30, 30, 4.46, 30]) + WhiteKernel(noise_level=1e-05)
+4.4888271135151546e-07
+0.0574**2 * RBF(length_scale=[4.89, 30, 30, 4.3, 30]) + WhiteKernel(noise_level=1e-05)
+2.5118067163055134e-07
+4.3008835214700523e-07
+mfr_s
+0.112**2 * RBF(length_scale=[1.69, 0.734, 0.274, 1.27, 11.4]) + WhiteKernel(noise_level=0.000154)
+0.00295614455075759
+0.291**2 * RBF(length_scale=[4.04, 2.6, 3.88, 2.2, 30]) + WhiteKernel(noise_level=0.00138)
+0.00029070827117519003
+0.307**2 * RBF(length_scale=[4.34, 2.66, 3.97, 2.4, 30]) + WhiteKernel(noise_level=0.0013)
+0.0008497554513812144
+0.35**2 * RBF(length_scale=[4.5, 3.04, 4.78, 2.58, 30]) + WhiteKernel(noise_level=0.0013)
+0.0010474034739855985
+0.296**2 * RBF(length_scale=[4.05, 2.64, 3.78, 2.18, 30]) + WhiteKernel(noise_level=0.00124)
+0.0009563413791547935
+0.292**2 * RBF(length_scale=[3.94, 2.59, 3.88, 2.21, 30]) + WhiteKernel(noise_level=0.00129)
+0.0007523153239118663
+0.294**2 * RBF(length_scale=[4.54, 2.51, 3.75, 2.42, 30]) + WhiteKernel(noise_level=0.00119)
+0.0014628620833933403
+0.332**2 * RBF(length_scale=[4.59, 2.81, 4.5, 2.47, 30]) + WhiteKernel(noise_level=0.00124)
+0.0012120284934828563
+0.324**2 * RBF(length_scale=[4.38, 2.71, 3.94, 2.24, 30]) + WhiteKernel(noise_level=0.00128)
+0.0008560988103473257
+0.364**2 * RBF(length_scale=[4.46, 3.04, 4.67, 2.57, 30]) + WhiteKernel(noise_level=0.00132)
+0.0008323876072940542
+0.0011216045444883828
+ uni_alpha
+0.371**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+8.406638083421683e-05
+0.382**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1.47e-05)
+2.9541277397626267e-07
+0.389**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1.46e-05)
+8.39532031396786e-07
+0.386**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1.46e-05)
+6.813436677327915e-07
+0.382**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1.47e-05)
+5.31602915874656e-07
+0.381**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1.46e-05)
+1.1175475981974984e-06
+0.383**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1.46e-05)
+9.167820492273919e-07
+0.387**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1.46e-05)
+9.418127913571713e-07
+0.39**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1.45e-05)
+1.2068369804044266e-06
+0.368**2 * RBF(length_scale=[30, 30, 30, 30, 30]) + WhiteKernel(noise_level=1e-05)
+8.40843639895333e-05
+1.7468161563191712e-05
+ uni_vel
+0.62**2 * RBF(length_scale=[4.12, 3.31, 4.57, 30, 30]) + WhiteKernel(noise_level=0.000371)
+0.00022018207107872548
+0.622**2 * RBF(length_scale=[4.21, 3.31, 4.28, 30, 30]) + WhiteKernel(noise_level=0.000345)
+0.00037187852258521
+0.574**2 * RBF(length_scale=[3.96, 2.89, 3.98, 30, 30]) + WhiteKernel(noise_level=0.000299)
+0.0005558407320661734
+0.598**2 * RBF(length_scale=[4.03, 3.22, 4.04, 30, 30]) + WhiteKernel(noise_level=0.000349)
+0.0003043678646818503
+0.626**2 * RBF(length_scale=[4.25, 3.38, 4.41, 30, 30]) + WhiteKernel(noise_level=0.000361)
+0.0002771411139636705
+0.576**2 * RBF(length_scale=[3.98, 2.86, 3.92, 30, 30]) + WhiteKernel(noise_level=0.00028)
+0.0006575050389292549
+0.573**2 * RBF(length_scale=[4.01, 2.56, 3.48, 30, 30]) + WhiteKernel(noise_level=0.000277)
+0.0006346359697980996
+0.573**2 * RBF(length_scale=[4.06, 2.78, 4.1, 30, 30]) + WhiteKernel(noise_level=0.000266)
+0.0007494446738815238
+0.593**2 * RBF(length_scale=[4.06, 3.05, 3.72, 30, 30]) + WhiteKernel(noise_level=0.000333)
+0.0003827544789216417
+0.605**2 * RBF(length_scale=[4.33, 3.26, 4.07, 30, 30]) + WhiteKernel(noise_level=0.000368)
+0.00023190874495347647
+0.0004385659210859626
+ ds1
+0.0956**2 * RBF(length_scale=[0.986, 0.604, 0.677, 1.75, 4.94]) + WhiteKernel(noise_level=0.0051)
+0.0037121092218948613
+0.201**2 * RBF(length_scale=[1.47, 2.48, 3.28, 3.58, 7.28]) + WhiteKernel(noise_level=0.00647)
+0.0032378800971598746
+0.0979**2 * RBF(length_scale=[0.985, 0.691, 0.856, 2.08, 4.33]) + WhiteKernel(noise_level=0.00406)
+0.01084389536287905
+0.222**2 * RBF(length_scale=[1.47, 2.83, 3.8, 3.16, 6.77]) + WhiteKernel(noise_level=0.00617)
+0.004473834870454077
+0.0933**2 * RBF(length_scale=[1.1, 0.671, 0.782, 2.23, 5.07]) + WhiteKernel(noise_level=0.00573)
+0.002686072938105395
+0.113**2 * RBF(length_scale=[1.12, 0.932, 1.22, 2.27, 4.79]) + WhiteKernel(noise_level=0.00534)
+0.00563294086923749
+0.1**2 * RBF(length_scale=[1.2, 0.68, 0.751, 2.37, 5.09]) + WhiteKernel(noise_level=0.00555)
+0.0034048138456792176
+0.111**2 * RBF(length_scale=[1.29, 1.01, 1.23, 2.21, 5.47]) + WhiteKernel(noise_level=0.0042)
+0.013395297761847745
+0.0966**2 * RBF(length_scale=[1.08, 0.72, 0.762, 2.43, 4.95]) + WhiteKernel(noise_level=0.00551)
+0.0038766800822045023
+0.419**2 * RBF(length_scale=[1.84, 3.89, 5.11, 21.6, 7.08]) + WhiteKernel(noise_level=0.00649)
+0.003975309125236279
+0.005523883417469849
